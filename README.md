@@ -1,5 +1,5 @@
 <p><b>🇰🇷 42 SEOUL 🇰🇷</b></p>
-<a href="https://github.com/oakoudad/badge42"><img height="180em" src="https://badge.mediaplus.ma/greenbinary/jeongrol?1337Badge=off&UM6P=off" alt="jeongrol's 42 stats" /></a>
+<a href="https://profile.intra.42.fr/users/jeongrol"><img height="180em" src="https://badge.mediaplus.ma/greenbinary/jeongrol?1337Badge=off&UM6P=off" alt="jeongrol's 42 stats" /></a>
 </br>
 </br>
 <p><b>🎈 Solved.ac 🎈</b></p>
